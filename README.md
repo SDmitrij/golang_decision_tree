@@ -1,9 +1,8 @@
 # Implementation of decision tree in golang
 ***
-*This implementation use ***decision tree package*** that provides an API to build decision tree according to your goal and then build this tree as .html template representation
+*** This implementation use ***decision tree package*** that provides an API to build decision tree according to your goal and then build this tree as .html template representation
 ***
 ### Simpsons decision tree example
-<html>
 <head>
     <style type="text/css">
         * {
@@ -275,6 +274,4 @@
 		</li>
 		</ul>
 		</li></ul></div>
-
 </body>
-</html>
